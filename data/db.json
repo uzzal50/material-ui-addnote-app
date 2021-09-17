@@ -5,6 +5,30 @@
       "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "category": "reminders",
       "id": 1
+    },
+    {
+      "note": "hire a cook",
+      "details": "i need a cook",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "note": "hello",
+      "details": "i love tennis",
+      "category": "money",
+      "id": 3
+    },
+    {
+      "note": "jason bourne",
+      "details": "he is a hero",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "note": "spiderman",
+      "details": "he is the spiderman",
+      "category": "reminders",
+      "id": 5
     }
   ]
 }
